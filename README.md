@@ -2,6 +2,8 @@
 
 “纤程智控——面向PAN基碳纤维制备的可解释AI工艺推荐系统”显微形貌证据判读原型。
 
+在线演示：https://zeemo-pku.github.io/pan-fiber-ai-evidence-demo/
+
 ## 功能
 
 - 展示5组PAN初生纤维显微图样例；

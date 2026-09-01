@@ -1,8 +1,8 @@
-# 纤程智控
+# FiberForge AI | 纤程智控
 
 本仓库是挑战杯项目“纤程智控——面向 PAN 基碳纤维制备的可解释 AI 工艺推荐系统”的网页演示原型。项目聚焦 PAN 基碳纤维制备过程中的显微形貌证据判读，尝试将实验图像、结构参数、工艺解释和调整建议串联为可追溯的分析链路。
 
-在线演示：https://zeemo-pku.github.io/xianchengzhikong/
+在线演示：https://zeemo-pku.github.io/fiberforge-ai/
 
 ## 项目背景
 
